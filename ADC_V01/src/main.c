@@ -1,3 +1,5 @@
+//This code is deprecated, i have to update to the new one...
+
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
